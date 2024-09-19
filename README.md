@@ -1,8 +1,8 @@
 ## 🍍 Jose Amador Demeneghi
 
 * 🖥️ I am an Embedded Software Engineer.
-* Connect with me on [LinkedIn](https://www.linkedin.com/in/joseamador).
-* See my experience in [TechRez.io](https://techrez.io/resume/JoseAmador).
+* ✉️ Connect with me on [LinkedIn](https://www.linkedin.com/in/joseamador).
+* 👷 See my experience in [TechRez.io](https://techrez.io/resume/JoseAmador).
 * 📫  Ask me anything on my [issues page](https://github.com/JoseAmador95/JoseAmador95/issues).
 
 ## ⚡ Technologies
